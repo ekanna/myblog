@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://127.0.0.1:9000/post/index.xml</link>
+    <link>http:ekanna.github.com/myblog/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Feb 2017 01:55:54 +0530</lastBuildDate>
-    <atom:link href="http://127.0.0.1:9000/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http:ekanna.github.com/myblog/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to Create a Blog</title>
-      <link>http://127.0.0.1:9000/post/introduction/</link>
+      <link>http:ekanna.github.com/myblog/</link>
       <pubDate>Wed, 15 Feb 2017 01:55:54 +0530</pubDate>
       
-      <guid>http://127.0.0.1:9000/post/introduction/</guid>
+      <guid>http:ekanna.github.com/myblog/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-introduction&#34;&gt;Hello introduction&lt;/h3&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Hello</title>
-      <link>http://127.0.0.1:9000/post/hello/</link>
+      <link>http:ekanna.github.com/myblog/</link>
       <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
       
-      <guid>http://127.0.0.1:9000/post/hello/</guid>
+      <guid>http:ekanna.github.com/myblog/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-world&#34;&gt;Hello World?&lt;/h3&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Welcome Kanna</title>
-      <link>http://127.0.0.1:9000/post/welcome/</link>
+      <link>http:ekanna.github.com/myblog/</link>
       <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
       
-      <guid>http://127.0.0.1:9000/post/welcome/</guid>
+      <guid>http:ekanna.github.com/myblog/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-koti-how-are-you&#34;&gt;Hello Koti, How are you?&lt;/h3&gt;
