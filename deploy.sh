@@ -1,6 +1,9 @@
 #!/bin/sh
 
-#script _scripts/publish_toghpages.sh
+# chmod +x deploy.sh // to convert as executable
+# ./deploy // to run
+
+#script _scripts/publish_toghpages.sh // below two lines are relavant if this is commented out
 #DIR=$(dirname "$0")
 #cd $DIR/..
 
