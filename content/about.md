@@ -7,4 +7,4 @@ date = "2014-09-27"
 
 ## about us
 
-i'm speechless
+Its all about blog
