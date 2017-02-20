@@ -1,7 +1,7 @@
 #!/bin/sh
 
+#script _scripts/publish_toghpages.sh
 #DIR=$(dirname "$0")
-
 #cd $DIR/..
 
 if [[ $(git status -s) ]]
