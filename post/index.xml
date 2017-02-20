@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://127.0.0.1:9000/post/index.xml</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2017 01:55:54 +0530</lastBuildDate>
+    <atom:link href="http://127.0.0.1:9000/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Create a Blog</title>
+      <link>http://127.0.0.1:9000/post/introduction/</link>
+      <pubDate>Wed, 15 Feb 2017 01:55:54 +0530</pubDate>
+      
+      <guid>http://127.0.0.1:9000/post/introduction/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello-introduction&#34;&gt;Hello introduction&lt;/h3&gt;
+
+&lt;p&gt;What are you doing?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://127.0.0.1:9000/post/hello/</link>
+      <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
+      
+      <guid>http://127.0.0.1:9000/post/hello/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello-world&#34;&gt;Hello World?&lt;/h3&gt;
+
+&lt;p&gt;Welcome to the world of Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome Kanna</title>
+      <link>http://127.0.0.1:9000/post/welcome/</link>
+      <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
+      
+      <guid>http://127.0.0.1:9000/post/welcome/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello-koti-how-are-you&#34;&gt;Hello Koti, How are you?&lt;/h3&gt;
+
+&lt;p&gt;Welcome to the world of Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
