@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseurl = "http://127.0.0.1:9000/"
+baseurl = "http:ekanna.github.com/myblog/"
 theme = "kanna"
 [permalinks]
 	page = "/:title/"
