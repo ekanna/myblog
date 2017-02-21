@@ -5,6 +5,6 @@ date = "2014-09-27"
 #slug = "about_time"
 +++
 
-## about us page
+## About Us Page
 
 Its all about blogs
