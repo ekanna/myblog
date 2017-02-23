@@ -7,3 +7,5 @@ draft = false
 
 ### Hello World?
 Welcome to the world of Hugo.
+
+{{<diamond>}}
