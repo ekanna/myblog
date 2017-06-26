@@ -11,24 +11,26 @@
     
     <item>
       <title>How to Create a Blog</title>
-      <link>http://ekanna.github.com/myblog/post/introduction/</link>
+      <link>http://ekanna.github.com/myblog/introduction/</link>
       <pubDate>Wed, 15 Feb 2017 01:55:54 +0530</pubDate>
       
-      <guid>http://ekanna.github.com/myblog/post/introduction/</guid>
+      <guid>http://ekanna.github.com/myblog/introduction/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-introduction&#34;&gt;Hello introduction&lt;/h3&gt;
 
-&lt;p&gt;What are you doing?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;What are you doing?
+What are you doing?
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>http://ekanna.github.com/myblog/post/hello/</link>
+      <title>Hello, hai?</title>
+      <link>http://ekanna.github.com/myblog/hello/</link>
       <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
       
-      <guid>http://ekanna.github.com/myblog/post/hello/</guid>
+      <guid>http://ekanna.github.com/myblog/hello/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-world&#34;&gt;Hello World?&lt;/h3&gt;
@@ -48,10 +50,10 @@
     
     <item>
       <title>Welcome Kanna</title>
-      <link>http://ekanna.github.com/myblog/post/welcome/</link>
+      <link>http://ekanna.github.com/myblog/welcome/</link>
       <pubDate>Wed, 15 Feb 2017 00:26:22 +0530</pubDate>
       
-      <guid>http://ekanna.github.com/myblog/post/welcome/</guid>
+      <guid>http://ekanna.github.com/myblog/welcome/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-koti-how-are-you&#34;&gt;Hello Koti, How are you?&lt;/h3&gt;
