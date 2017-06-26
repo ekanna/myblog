@@ -4,4 +4,4 @@ baseurl = "http://ekanna.github.com/myblog/"
 theme = "kanna"
 [permalinks]
 	page = "/:title/"
-	about = "/:filename/"
+	post = "/:filename/"
